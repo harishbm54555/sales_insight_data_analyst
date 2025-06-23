@@ -50,3 +50,8 @@ Data Analysis Using Power BI
 
 
 
+DASHBOARD
+=========
+![image](https://github.com/user-attachments/assets/7d2e6e9e-be39-46e2-8f23-0fb7eb45a1c7)
+
+
